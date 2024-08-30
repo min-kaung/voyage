@@ -1595,7 +1595,7 @@ div.s2-cards {
 
 .AC-Txt {
   font-family: var(--font-family);
-  font-size: 16px;
+  font-size: 18px;
   text-indent: 20px;
   text-align: justify;
   scroll-behavior: smooth;
@@ -1605,7 +1605,7 @@ div.s2-cards {
   border-left: 2.7px solid #007bff;
   padding-left: 25px;
   font-family: var(--font-family);
-  font-size: 16px;
+  font-size: 18px;
   text-align: justify;
 }
 
